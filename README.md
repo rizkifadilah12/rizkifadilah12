@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/Rizkifa12684480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizkifadilah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rizki-fadilah-086329197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizki fadilah" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad rizki padilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad rizki padilah" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.rizkipadilah.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad rizki padilah" height="30" width="40" /></a>
 <a href="https://instagram.com/rizkifadilah_218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkifadilah_218" height="30" width="40" /></a>
 </p>
 
