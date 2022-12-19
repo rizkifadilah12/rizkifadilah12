@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Golang** 
 
-- 👨‍💻 All of my projects are available at [https://mrizkip.000webhostapp.com/](https://mrizkip.000webhostapp.com/)
-
 - 💬 Ask me about **Swift , Python , Php , ReactJs ,JavaScript**
 
 - 📫 How to reach me **rizkiiifdlh@gmail.com** 
