@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Golang** 
 
-- 💬 Ask me about **Swift , Python , Php , ReactJs ,JavaScript**
+- 💬 Ask me about **NodeJs , Python , Php , ReactJs ,JavaScript**
 
 - 📫 How to reach me **rizkiiifdlh@gmail.com** 
 
